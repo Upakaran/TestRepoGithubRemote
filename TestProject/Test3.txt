@@ -1,4 +1,8 @@
 test3
 
 
+<<<<<<< HEAD
 other line added
+=======
+line added
+>>>>>>> 7de0121e0dbe748f15cfef5147a6db295d8e11bf
